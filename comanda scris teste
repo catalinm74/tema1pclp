@@ -1,0 +1,13 @@
+rm -rf comparison_outputs
+mkdir comparison_outputs
+
+clang -Wall -Wextra -Werror battleships.c game.c printing.c validation.c cleanup.c -o battleships
+
+find tests -type f -name '*.ref' -print0 |
+while IFS= read -r -d '' ref; do
+    name="$(basename "$ref" .ref)"
+    cp "$ref" "comparison_outputs/$name.ref"
+    ./battleships < "${ref%.ref}.in" > "comparison_outputs/$name.out"
+done
+
+rm -rf test_outputs reference_outputs

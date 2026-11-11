@@ -1,0 +1,73 @@
+Nava Shinano nu poate fi amplasata vertical la coordonatele (3, 5).
+Nava Albacore nu poate fi amplasata vertical la coordonatele (11, 11).
+Nava Yamato nu poate fi amplasata vertical la coordonatele (5, 3).
+0 0 0 0 0 5 5 5 5 5
+0 3 3 3 4 0 0 0 0 0
+0 0 0 0 4 0 0 0 0 0
+0 0 0 0 4 2 2 2 0 0
+0 1 0 0 4 0 0 2 0 0
+0 0 0 0 0 0 0 0 0 2
+0 1 0 0 0 0 0 0 0 2
+0 0 0 0 0 0 0 0 0 0
+0 1 0 3 3 3 0 1 0 1
+0 0 0 0 0 0 0 0 0 0
+
+0 0 0 0 5 5 5 5 5 0
+0 0 0 0 0 0 3 3 3 0
+4 4 4 4 0 0 0 0 0 0
+1 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 2 2
+0 2 2 0 0 0 0 0 0 0
+0 0 0 0 0 2 2 0 0 0
+0 0 0 0 1 0 0 0 0 0
+1 0 0 0 0 0 0 0 0 0
+0 3 3 3 0 0 0 0 1 1
+Jucatorul 1 a ratat o lovitura la coordonatele (3, 5).
+Jucatorul 2 a ratat o lovitura la coordonatele (2, 8).
+Jucatorul 1 a ratat o lovitura la coordonatele (8, 8).
+Jucatorul 2 a ratat o lovitura la coordonatele (7, 3).
+Jucatorul 1 a distrus o nava Laffey plasata intre coordonatele (5, 9) si (5, 10).
+Jucatorul 2 a ratat o lovitura la coordonatele (6, 8).
+Jucatorul 1 a ratat o lovitura la coordonatele (6, 7).
+Jucatorul 2 a distrus o nava Albacore plasata intre coordonatele (9, 10) si (9, 10).
+Coordonatele (6, 7) au fost deja atacate de jucatorul 1.
+Jucatorul 2 a distrus o nava Laffey plasata intre coordonatele (4, 6) si (4, 7).
+Jucatorul 1 a lovit o nava Shinano la coordonatele (1, 9).
+Coordonatele (7, 3) au fost deja atacate de jucatorul 2.
+Jucatorul 1 a lovit o nava Shinano la coordonatele (1, 8).
+Jucatorul 2 a ratat o lovitura la coordonatele (2, 6).
+Jucatorul 1 a lovit o nava Shinano la coordonatele (1, 7).
+Jucatorul 2 a ratat o lovitura la coordonatele (5, 4).
+Jucatorul 1 a lovit o nava Shinano la coordonatele (1, 6).
+Jucatorul 2 a distrus o nava Yamato plasata intre coordonatele (5, 5) si (2, 5).
+Jucatorul 1 a distrus o nava Shinano plasata intre coordonatele (1, 5) si (1, 9).
+Jucatorul 2 a ratat o lovitura la coordonatele (3, 5).
+Jucatorul 1 a lovit o nava Yamato la coordonatele (3, 2).
+Jucatorul 2 a ratat o lovitura la coordonatele (9, 3).
+Jucatorul 1 a distrus o nava Yamato plasata intre coordonatele (3, 1) si (3, 4).
+Jucatorul 2 a distrus o nava Belfast plasata intre coordonatele (9, 4) si (9, 6).
+Jucatorul 1 a ratat o lovitura la coordonatele (6, 5).
+Jucatorul 2 a ratat o lovitura la coordonatele (8, 2).
+Jucatorul 1 a ratat o lovitura la coordonatele (6, 8).
+Jucatorul 2 a distrus o nava Albacore plasata intre coordonatele (9, 2) si (9, 2).
+Jucatorul 1 a ratat o lovitura la coordonatele (9, 9).
+Jucatorul 2 a ratat o lovitura la coordonatele (7, 7).
+Jucatorul 1 a distrus o nava Albacore plasata intre coordonatele (10, 10) si (10, 10).
+Jucatorul 2 a distrus o nava Albacore plasata intre coordonatele (7, 2) si (7, 2).
+Jucatorul 1 a distrus o nava Albacore plasata intre coordonatele (8, 5) si (8, 5).
+Jucatorul 2 a lovit o nava Laffey la coordonatele (4, 8).
+Jucatorul 1 a ratat o lovitura la coordonatele (4, 6).
+Jucatorul 2 a distrus o nava Laffey plasata intre coordonatele (5, 8) si (4, 8).
+Jucatorul 1 a ratat o lovitura la coordonatele (8, 9).
+Jucatorul 2 a ratat o lovitura la coordonatele (4, 4).
+Jucatorul 1 a lovit o nava Belfast la coordonatele (2, 8).
+Jucatorul 2 a distrus o nava Shinano plasata intre coordonatele (1, 6) si (1, 10).
+Jucatorul 1 a distrus o nava Belfast plasata intre coordonatele (2, 7) si (2, 9).
+Jucatorul 2 a distrus o nava Belfast plasata intre coordonatele (2, 2) si (2, 4).
+Coordonatele (1, 8) au fost deja atacate de jucatorul 1.
+Jucatorul 2 a distrus o nava Albacore plasata intre coordonatele (5, 2) si (5, 2).
+Jucatorul 1 a lovit o nava Laffey la coordonatele (6, 3).
+Jucatorul 2 a distrus o nava Albacore plasata intre coordonatele (9, 8) si (9, 8).
+Jucatorul 1 a distrus o nava Albacore plasata intre coordonatele (10, 9) si (10, 9).
+Jucatorul 2 a distrus o nava Laffey plasata intre coordonatele (7, 10) si (6, 10).
+Jucatorul 2 a castigat.
