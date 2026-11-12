@@ -2,7 +2,7 @@
 #include "game.h"
 #include "types.h"
 #include "cleanup.h"
-
+#include "statistics.h"
 
 int main(void){
 
@@ -46,6 +46,10 @@ int main(void){
 		free_memory(&player_2);
 
 	}
+
+	//print statistics if there are any
+	manage_statistics(&player_1, &player_2);
+	
 
 	clear_statistics(&player_1);
 	clear_statistics(&player_2);

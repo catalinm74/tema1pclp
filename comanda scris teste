@@ -1,7 +1,7 @@
 rm -rf comparison_outputs
 mkdir comparison_outputs
 
-clang -Wall -Wextra -Werror battleships.c game.c printing.c validation.c cleanup.c -o battleships
+clang -Wall -Wextra -Werror battleships.c game.c printing.c validation.c cleanup.c statistics.c encryption_algorithm.c -o battleships
 
 find tests -type f -name '*.ref' -print0 |
 while IFS= read -r -d '' ref; do

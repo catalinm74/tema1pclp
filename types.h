@@ -29,9 +29,8 @@ typedef struct {
 	int *total_hits;
 	int *landed_hits;
 
-	float *match_accuracies;
-	float *match_accuracies_ponderated;
-	
+	double *match_accuracies;
+	double *match_accuracies_ponderated;
 
 	ship *ships;
 	int ship_count;

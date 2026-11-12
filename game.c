@@ -4,7 +4,6 @@
 #include "types.h"
 #include "validation.h"
 #include "printing.h"
-#include "cleanup.h"
 
 int place_ship(player_status *player){
 
@@ -240,10 +239,10 @@ int initialize_player(player_status *player, int rows, int columns){
 int create_statistics(player_status *player, int matches){
 
 	player->matches_played = 0;
-	player->match_accuracies = malloc(matches * sizeof(float));
+	player->match_accuracies = malloc(matches * sizeof(double));
 	if (player->match_accuracies == NULL)
 		return 1;
-	player->match_accuracies_ponderated = malloc(matches * sizeof(float));
+	player->match_accuracies_ponderated = malloc(matches * sizeof(double));
 	if (player->match_accuracies_ponderated == NULL)
 		return 1;
 	player->total_hits = malloc(matches * sizeof(int));
