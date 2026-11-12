@@ -5,7 +5,7 @@
 
 void manage_statistics(player_status *player_1, player_status *player_2);
 
-void parse_data(player_status *player, char *requirement, char *result);
+int parse_data(player_status *player, char *requirement, char *result);
 
 int calculate_single (player_status *player, int match_index, double target_accuracy, int req_type);
 

@@ -1,5 +1,5 @@
 CC = gcc
-CFLAGS = -Wall -Wextra -Werrror -std=gnu11
+CFLAGS = -Wall -Wextra -Werror -std=gnu11
 LDLIBS = -lm
 
 TARGET = battleships
